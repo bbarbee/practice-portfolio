@@ -1,2 +1,2 @@
-# practice-protfolio
-CSS, HTML, JS protfolio web page
+# practice-portfolio
+CSS, HTML, JS portfolio web page
